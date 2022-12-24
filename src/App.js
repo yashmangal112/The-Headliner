@@ -39,8 +39,8 @@ export default class App extends Component {
         <Router>
           <Navbar/>
           <Switch>
-            <Route exact path="/"> <News setProgress={this.setProgress} apikey={this.apikey} key="general" pagesize={this.pagesize} country='in' category="general"/> </Route>
-            <Route exact path="/business"> <News setProgress={this.setProgress} apikey={this.apikey} key="business" pagesize={this.pagesize} country='in' category="business"/> </Route>
+            <Route exact path="/"> <News setProgress={this.setProgress} apikey="a10a1962b4714c32b1b132ee6b31e3ea" key="general" pagesize={this.pagesize} country='in' category="general"/> </Route>
+            <Route exact path="/business"> <News setProgress={this.setProgress} apikey="a10a1962b4714c32b1b132ee6b31e3ea" key="business" pagesize={this.pagesize} country='in' category="business"/> </Route>
             <Route exact path="/entertainment"> <News setProgress={this.setProgress} apikey={this.apikey} key="entertainment" pagesize={this.pagesize} country='in' category="entertainment"/> </Route>
             <Route exact path="/general"> <News setProgress={this.setProgress} apikey={this.apikey} key="general" pagesize={this.pagesize} country='in' category="general"/> </Route>
             <Route exact path="/health"> <News setProgress={this.setProgress} apikey={this.apikey} key="health" pagesize={this.pagesize} country='in' category="health"/> </Route>
