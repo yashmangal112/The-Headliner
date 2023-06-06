@@ -26,8 +26,8 @@ To run this project locally, follow the steps below:
 
 Here are some screenshots of our news website:
 
-![Screenshot 1]([src/components/ss1.png](https://github.com/yashmangal112/The-Headliner/assets/104120843/94f62e9b-2cfb-4d18-9c91-9857944c5af0))
-![Screenshot 1]([src/components/ss2.png](https://github.com/yashmangal112/The-Headliner/assets/104120843/74f88d7a-4ab0-4a47-8ebd-cfd816dd786b))
+![Screenshot 1](https://github.com/yashmangal112/The-Headliner/assets/104120843/68bc5a6e-9545-4a5f-b117-ae7816df646c)
+![Screenshot 2](https://github.com/yashmangal112/The-Headliner/assets/104120843/1f981f57-9dc9-4378-92f9-f162e619ef25)
 
 We are committed to delivering reliable and relevant news content while prioritizing user experience. Thank you for choosing our news website, and we hope you find it informative and engaging.
 
