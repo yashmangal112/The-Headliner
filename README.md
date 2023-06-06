@@ -7,7 +7,7 @@ To enhance your browsing experience, we have implemented exciting features, incl
 Our website is built using state-of-the-art technologies such as `newsApi, Tailwind CSS, and React.JS`. This powerful combination ensures a robust and responsive user interface, delivering a visually appealing and dynamic platform for accessing news information.
 
 
-Note: This project is not currently hosted on a live server.
+### Note: This project is not currently hosted on a live server.
 
 This project utilizes a developer API that is designed to work only on the localhost environment. Therefore, it cannot be hosted on a live server. However, by following the steps above, you can easily run the project on your local machine and explore all its features.
 
@@ -27,8 +27,8 @@ To run this project locally, follow the steps below:
 
 Here are some screenshots of our news website:
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](src/components/ss1.png)
+![Screenshot 1](src/components/ss2.png)
 
 We are committed to delivering reliable and relevant news content while prioritizing user experience. Thank you for choosing our news website, and we hope you find it informative and engaging.
 
