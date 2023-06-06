@@ -19,10 +19,7 @@ To run this project locally, follow the steps below:
 2. Navigate to the project directory
 3. Install the necessary dependencies: npm install 
 4. Start the development server: npm start
-
 5. Open your web browser and visit `http://localhost:3000` to access the news website.
-![ss1](https://github.com/yashmangal112/The-Headliner/assets/104120843/94f62e9b-2cfb-4d18-9c91-9857944c5af0)
-![ss2](https://github.com/yashmangal112/The-Headliner/assets/104120843/74f88d7a-4ab0-4a47-8ebd-cfd816dd786b)
 
 
 ## Screenshots
@@ -30,7 +27,7 @@ To run this project locally, follow the steps below:
 Here are some screenshots of our news website:
 
 ![Screenshot 1]([src/components/ss1.png](https://github.com/yashmangal112/The-Headliner/assets/104120843/94f62e9b-2cfb-4d18-9c91-9857944c5af0))
-![Screenshot 1](src/components/ss2.png)
+![Screenshot 1]([src/components/ss2.png](https://github.com/yashmangal112/The-Headliner/assets/104120843/74f88d7a-4ab0-4a47-8ebd-cfd816dd786b))
 
 We are committed to delivering reliable and relevant news content while prioritizing user experience. Thank you for choosing our news website, and we hope you find it informative and engaging.
 
