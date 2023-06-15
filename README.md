@@ -29,5 +29,6 @@ Here are some screenshots of our news website:
 ![Screenshot 1](https://github.com/yashmangal112/The-Headliner/assets/104120843/68bc5a6e-9545-4a5f-b117-ae7816df646c)
 ![Screenshot 2](https://github.com/yashmangal112/The-Headliner/assets/104120843/1f981f57-9dc9-4378-92f9-f162e619ef25)
 
-We are committed to delivering reliable and relevant news content while prioritizing user experience. Thank you for choosing our news website, and we hope you find it informative and engaging.
+We are committed to delivering reliable and relevant news content while prioritizing user experience. 
+Thank you for choosing our news website, and we hope you find it informative and engaging.
 
